@@ -34,3 +34,5 @@ Perhaps the most important number of them all. over 2 million rides in the month
 
 ## Summary 
 In conclusion, I think there needs to be more informaiton looked at like average revenue per ride and average expense per ride.  It will be a successful venture if you have the volume of userr going to work on bikes and spending lesiure time on the weekends in the same area that they also work.  
+
+[link to dashboard](https://public.tableau.com/app/profile/gabriel.quinones/viz/challenge_16501647520250/NYCBikeStory?publish=yes)
